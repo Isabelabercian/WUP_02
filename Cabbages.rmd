@@ -17,13 +17,18 @@ veggy <- cabbages
 # Introduction
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->
+
  The cabbages data from the MASS package is loaded into a dataframe called veggy. Complete this report by answering the following two questions  
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 
+
+
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+
+We looked at the variables and found that we had numerical variables. The numerical variable refers to how much Vitamin C can be contained between the two cultivation methods. The cultivation methods in question are called c39 and c52.
 
 # Results
 
