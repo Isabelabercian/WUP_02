@@ -52,7 +52,11 @@ The top quartile of c52 is larger than the 3rd quartile than c39. This shows us 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
 
+The first quartile of c39 is at 46, and c52's is at 58. Both sets show a an increase in cultications. However, c52's is higher. Both sets contain 30 numerical values. 
 
 ## Inferential Results
 
