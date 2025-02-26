@@ -70,4 +70,6 @@ I reject the null hypothesis. If group c39 and c52 had no differences, the chanc
 
 # Discussion and Conclusion
 
+First, we examined the boxplot data for VitC and found differnce between the c39 and c52 methods. We concluded that they are statistically different. Then, we examined the numerical results, where we found the numerical values of c39 and c52. Finally, we concluded that the null hypothesis should be rejected, because if c39 and c52 had no differences, these results would have a very low chance of occuring. This proves that they are statistically different. 
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
